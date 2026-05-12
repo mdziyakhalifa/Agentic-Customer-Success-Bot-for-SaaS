@@ -105,3 +105,7 @@ The application will be available at `http://localhost:5173`.
 - Add WebSockets for token-by-token streaming responses.
 - Implement Celery workers for asynchronous document chunking and embedding.
 - Integrate with real external APIs (Jira, Zendesk) via the Action Agent.
+
+## Author
+Mohammad Ziya Khalifa
+mohammadziyakhalifa@gmail.com
