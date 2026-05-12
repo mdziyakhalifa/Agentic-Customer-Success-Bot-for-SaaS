@@ -1,0 +1,13 @@
+Our SaaS platform offers three pricing tiers: Starter ($29/month), Professional ($79/month), and Enterprise (custom pricing). Each tier includes different levels of support and features.
+
+The Starter plan includes up to 5 team members, 10GB storage, email support, and basic analytics. It is ideal for small teams getting started.
+
+The Professional plan includes up to 25 team members, 100GB storage, priority email and chat support, advanced analytics, API access, and custom integrations. It is best for growing businesses.
+
+The Enterprise plan includes unlimited team members, unlimited storage, 24/7 phone support, dedicated account manager, custom SLAs, SSO/SAML authentication, and advanced security features.
+
+To upgrade your plan, go to Settings > Billing > Change Plan. You can upgrade at any time and the cost will be prorated. Downgrades take effect at the next billing cycle.
+
+For password resets, click "Forgot Password" on the login page. A reset link will be sent to your registered email. The link expires after 24 hours.
+
+To invite team members, go to Settings > Team > Invite. Enter their email address and select a role (Admin, Editor, or Viewer). They will receive an invitation email to join your workspace.
